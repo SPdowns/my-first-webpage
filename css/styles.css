@@ -1,5 +1,5 @@
 h1 {
-  color: purple;
+  color: red;
   text-align: center;
 }
 
@@ -15,4 +15,9 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+img {
+  border-color: saddlebrown;
+  border-width: 10px;
 }
