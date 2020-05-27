@@ -17,6 +17,10 @@ ul {
   line-height: 30px;
 }
 
+ol {
+  font-style: italic;
+}
+
 img {
   border-color: saddlebrown;
   border-width: 10px;
